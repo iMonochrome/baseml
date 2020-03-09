@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "webpack --watch --progress --colors --minimize",
+    "start": "webpack --watch",
     "dev": "webpack --progress --colors",
     "build": "webpack --watch"
   },
